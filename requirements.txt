@@ -1,0 +1,3 @@
+streamlit==1.30.0
+google-generative-ai
+rich==13.7.0
