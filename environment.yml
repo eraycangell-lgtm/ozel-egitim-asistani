@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10
+  - streamlit
   - pip
   - pip:
-      - streamlit
-      - google-generative-ai
+    - google-generative-ai
