@@ -4,4 +4,6 @@ channels:
 dependencies:
   - python=3.10
   - streamlit
-  - google-generative-ai
+  - pip
+  - pip:
+        - google-generative-ai
