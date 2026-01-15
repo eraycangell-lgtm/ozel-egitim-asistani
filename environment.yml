@@ -1,7 +1,0 @@
-name: ozel_egitim
-channels:
-  - conda-forge
-dependencies:
-  - python=3.10
-  - streamlit
-  - google-generative-ai
